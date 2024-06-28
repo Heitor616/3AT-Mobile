@@ -1,0 +1,12 @@
+@media only screen and (max-width: 300px) {
+    body {
+      background-color: rgb(12, 106, 138);
+    }
+
+    .superior{
+        text-align: center;
+        color: white;
+    }
+  }
+
+  
