@@ -1,4 +1,4 @@
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 330px) {
     body {
       background-color: rgb(12, 106, 138);
     }
@@ -6,6 +6,23 @@
     .superior{
         text-align: center;
         color: white;
+    }
+    button{
+        width: 180px;
+        height: 40px;
+        border-radius: 20px;
+        background-color: white;
+        color: black;
+        font-size: 25px;
+        font-style: normal;
+    }
+    .texto{
+      margin-top: 40px;
+    }
+    .botao{
+      font-size: 58px;
+      color: white;
+      margin-top: 0px;
     }
   }
 
